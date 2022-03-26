@@ -1,1 +1,1 @@
-Python stuff
+Calculator written in Python
