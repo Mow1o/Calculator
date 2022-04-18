@@ -1,1 +1,1 @@
-Calculator written in Python
+Calculator written in python using Tkinter
